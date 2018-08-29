@@ -1,0 +1,5 @@
+Iteration: 1 Count: 199
+Iteration: 2 Count: 7850
+Iteration: 3 Count: 7189
+Iteration: 4 Count: 521
+Iteration: 5 Count: 2
